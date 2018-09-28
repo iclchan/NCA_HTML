@@ -5,3 +5,37 @@ body {
 #name {
     font-size: 50px
 }
+
+#red-square {
+    color: red;
+}
+
+#green-square {
+    color: green
+}
+
+#blue-square {
+    color: blue
+}
+
+#yellow-square {
+    color: yellow
+}
+
+#red-triangle {
+    color: red;
+}
+
+#green-triangle {
+    color: green
+}
+
+#blue-triangle {
+    color: blue
+}
+
+#yellow-triangle {
+    color: yellow
+}
+
+
