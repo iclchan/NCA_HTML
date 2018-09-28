@@ -1,40 +1,36 @@
-body {
-    /*background-color: black;*/
-}
-
 #name {
     font-size: 50px
 }
 
-#red-square {
+#red-football {
     color: red;
 }
 
-#green-square {
+#green-football {
     color: green
 }
 
-#blue-square {
+#blue-football {
     color: blue
 }
 
-#yellow-square {
+#yellow-football {
     color: yellow
 }
 
-#red-triangle {
+#red-basketball {
     color: red;
 }
 
-#green-triangle {
+#green-basketball {
     color: green
 }
 
-#blue-triangle {
+#blue-basketball {
     color: blue
 }
 
-#yellow-triangle {
+#yellow-basketball {
     color: yellow
 }
 
